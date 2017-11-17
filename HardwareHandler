@@ -1,4 +1,4 @@
-namespace Toone.V3.DevSystem.Common
+namespace Common
 {
     /// <summary>
     /// 计算机硬件处理类
